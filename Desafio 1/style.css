@@ -1,0 +1,85 @@
+/*menu*/
+* {
+    margin: 0;
+    padding: 0;
+    font-family: "Roboto";
+}
+#menu {
+    background-color: #00bfff;
+}
+
+#menu ul {
+    list-style: none;
+}
+
+#menu ul li{
+    display: inline;
+}
+
+#menu ul li a {
+    font-family: Arial, Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    color: #dcebaf;
+    text-decoration: none;
+    padding: 20px;
+    display: inline-block;
+}
+
+#menu ul li a:hover {
+    color: black;
+    background-color: #ADD8E6;
+    transition: 0.5s all;
+}
+
+#logo{
+    margin-right: 50px;
+    max-width: 50px;
+}
+
+header {
+    display: flex;
+    align-items: center;
+    background-color: #00BFFF;
+    padding: 0 50px;
+}
+/*menu*/
+
+#meu_nome {
+    font-size: 50px;
+    font-weight: bold;
+
+}
+
+#sobre_mim {
+    font-size: 27px;
+    text-align: justify;
+    width: 700px;
+}
+
+#feceg {
+    font-size: 50px;
+    font-weight: bold;
+}
+#minha_experiencia {
+    font-size: 27px;
+    text-align: justify;
+    width: 700px;
+}
+#experiencias {
+    margin: 2px;
+}
+
+#minhas_competencias {
+    margin: 10px;
+    font-size: 50px;
+}
+
+ul {
+    font-size: 27px;
+    margin-left: 32px;
+
+}
+
+#apps img {
+    margin-right: 30px;
+}
